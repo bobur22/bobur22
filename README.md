@@ -37,7 +37,7 @@
 
 <h1>
     <a href="">
-        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=bobur22&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=123499&theme=dark" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobur22&hide_title=true&layout=compact&bg_color=123499&theme=dark" />
+        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=bobur22&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=051650&theme=dark" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobur22&hide_title=true&layout=compact&bg_color=051650&theme=dark"/>
     </a>
 </h1>
 
