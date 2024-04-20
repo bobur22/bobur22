@@ -28,27 +28,16 @@
 **Full Stack projects**
 
 
-<a href="https://github.com/haku2266/zarahome-e-commerce">
-   <img width="90px" height="40px" src="https://logos-world.net/wp-content/uploads/2023/07/Zara-Home-Logo.jpg" />
+<a href="https://github.com/bobur22/Project2">
+   <img width="90px" height="40px" src="https://www.creativefabrica.com/wp-content/uploads/2021/07/01/Beauty-Salon-icon-Graphics-14107270-1-1-580x387.jpg" />
 </a>    
-&nbsp;&nbsp;
-<a class="align" href="https://github.com/haku2266/MusicLibrary">
-<img width="70px" height="40px" src="https://media.gettyimages.com/id/1475320253/video/colorful-neon-icon.jpg?s=640x640&k=20&c=PwyCyvqWRQRWvc0iw99kOTOqgy8yOKLVJqLjlMKiwp0=" />
-</a>   
 
 <br/>
-<br/>
-
-**API projects**
-<br/>
-[Bank API](https://github.com/haku2266/bank_api)&nbsp;&nbsp;
-[Fund Raising API](https://github.com/haku2266/fund_raising_api)
-
 
 
 <h1>
     <a href="">
-        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=haku2266&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=192841&theme=dark" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=haku2266&hide_title=true&layout=compact&bg_color=192841&theme=dark" />
+        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=bobur22&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=123499&theme=dark" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobur22&hide_title=true&layout=compact&bg_color=123499&theme=dark" />
     </a>
 </h1>
 
