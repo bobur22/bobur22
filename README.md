@@ -29,7 +29,7 @@
 
 
 <a href="https://github.com/bobur22/Project2">
-   <img width="90px" height="60px" src="https://static.wixstatic.com/media/43b56f_a89739d886ea47e0a6117487e13f809b~mv2_d_2387_1284_s_2.png" />
+   <img width="90px" height="40px" src="https://static.wixstatic.com/media/43b56f_a89739d886ea47e0a6117487e13f809b~mv2_d_2387_1284_s_2.png" />
 </a>
 <a href="https://github.com/bobur22/Kandy-pre-school">
    <img width="90px" height="40px" src="https://github.com/bobur22/Kandy-pre-school/blob/master/assets/main/img/For_Web_3/svg/Color%20logo%20-%20no%20background.svg" />
