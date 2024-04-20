@@ -35,7 +35,7 @@
    <img width="90px" height="40px" src="https://github.com/bobur22/Kandy-pre-school/blob/master/assets/main/img/For_Web_3/svg/Color%20logo%20-%20no%20background.svg" />
 </a>    
 <a href="https://github.com/bobur22/E-commerece">
-   <img width="90px" height="40px" src="https://imatrix.com/wp-content/uploads/sites/12/2021/03/ecommerce.jpg" />
+   <img width="90px" height="40px" src="https://github.com/bobur22/E-commerece/blob/master/assets/main/img/logo.png" />
 </a>    
 
 <br/>
