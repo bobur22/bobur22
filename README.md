@@ -29,7 +29,7 @@
 
 
 <a href="https://github.com/bobur22/Project2">
-   <img width="90px" height="40px" src="https://www.creativefabrica.com/wp-content/uploads/2021/07/01/Beauty-Salon-icon-Graphics-14107270-1-1-580x387.jpg" />
+   <img width="90px" height="40px" src="https://scontent.ftas6-1.fna.fbcdn.net/v/t39.30808-1/307569541_534741861985765_3508539011069225137_n.jpg?stp=dst-jpg_p480x480&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=6D4U46c1RD0Ab4_eXMl&_nc_ht=scontent.ftas6-1.fna&oh=00_AfB9LnqqvcdbiuMT77sqVTgFuqwfOGY7jB6MThX0iLOl3A&oe=6629BDB2" />
 </a>
 <a href="https://github.com/bobur22/Kandy-pre-school">
    <img width="90px" height="40px" src="https://github.com/bobur22/Kandy-pre-school/blob/master/assets/main/img/For_Web_3/svg/Color%20logo%20-%20no%20background.svg" />
