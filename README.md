@@ -38,7 +38,7 @@
    <img width="90px" height="40px" src="https://github.com/bobur22/E-commerece/blob/master/assets/main/img/logo.png" />
 </a>    
 <a href="https://github.com/bobur22/ICMA_deploy.git">
-   <img width="90px" height="40px" src="https://github.com/bobur22/ICMA_deploy/assets/main/img/language_en.svg" />
+   <img width="90px" height="40px" src="http://icma.uz/static/main/img/language_en.svg" />
 </a>
 
 <br/>
